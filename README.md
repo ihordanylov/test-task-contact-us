@@ -1,4 +1,4 @@
-# TestTaskSokolenko
+
 ![Screenshot](screens/image.png)
 
 ![Screenshot](screens/image(1).png)
